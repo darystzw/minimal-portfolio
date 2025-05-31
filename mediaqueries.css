@@ -91,6 +91,9 @@
     height: 46vw;
     justify-content: center;
   }
+  .section__pic-container img {
+    height: 100%;
+  }
   .section__text__p2 {
     font-size: 1.25rem;
   }
